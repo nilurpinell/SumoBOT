@@ -1,0 +1,10 @@
+/ReferencedRSESystems.xml
+*.args
+*.d
+*.o
+*.mk
+*.elf
+*.map
+*.apconfig
+*.traceConfig
+*.cproject
